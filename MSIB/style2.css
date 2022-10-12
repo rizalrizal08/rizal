@@ -1,0 +1,21 @@
+table, th,td{
+    border: 1px solid black;
+    width: 40%
+    text-align: center;
+}
+
+.nama{
+    width: 60%;
+    colspan: 2;
+}
+
+.header{
+    background-color: blue;
+    color: white;
+}
+
+@media only screen and (max-width: 60px) {
+    .container {
+        margin : 50px;
+    }
+}

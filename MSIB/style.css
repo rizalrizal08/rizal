@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: 'Bungee Spice', cursive;
+
+}
+h1 {
+    text-align: center;
+    color: #31a7d6;
+    background-color: azure;
+}
+
+form{
+    margin-left: 5rem;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
+
+.nama{
+    padding: 50px;
+}
